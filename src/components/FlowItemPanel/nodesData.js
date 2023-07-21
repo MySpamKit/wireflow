@@ -100,6 +100,7 @@ import userSettings2 from '../../assets/images/Socials/User Settings 2.svg';
 import userSettings from '../../assets/images/Socials/User Settings.svg';
 import users2 from '../../assets/images/Socials/Users 2.svg';
 import users from '../../assets/images/Socials/Users.svg';
+import dashboard from '../../assets/images/Dashboard/Dashboard1.svg';
 
 export default [
   {
@@ -509,5 +510,9 @@ export default [
   {
     label: 'User',
     img: users,
+  },
+  {
+    label: 'DashBoard',
+    img: dashboard,
   },
 ];
